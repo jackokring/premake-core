@@ -15,7 +15,6 @@ src/scripts.c
 **.lnt
 **.vlstatus
 
-Makefile
 *.make
 *.xcodeproj
 *.xcworkspace
